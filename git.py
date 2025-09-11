@@ -4,4 +4,8 @@
 #git commit -m "комментарий" - сохранение версии кода
 #git config --global user.email "you@example.com" - указание электронной почты пользователя 
 #git config --global user.name "Your Name" - указание имени пользователя
+#git log - показывает все коммиты в активной ветке
+#git checkout <токен коммита> - просмотр коммита
+
+
 
